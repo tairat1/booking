@@ -10,7 +10,7 @@
 </head>
 <body>
     
-    <div class="container col-md-5 mt-5 shadow p-3 mb-5 bg-body rounded">
+    <div class="container col-md-5 mt-5 shadow p-3 mb-5 bg-body rounded"> 
         <!-- ทดสอบส่งฟอร์มบันทึกข้อมูล -->
         <h1 class="mb-4">ระบบจองห้องพัก</h1>
 
