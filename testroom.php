@@ -18,7 +18,7 @@
             <div class="mb-3">
                 <label for="txtcheckin" class="form-label">วันที่เช็คอิน:</label>
                 <input type="date" name="txtcheckin" class="form-control" required>
-            </div> 
+            </div>
 
             <div class="mb-3">
                 <label for="txtCheckout" class="form-label">วันที่เช็คเอาท์:</label>
